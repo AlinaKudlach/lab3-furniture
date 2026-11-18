@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<furniture>
+    <furnitureSet id="1">
+        <name>A</name>
+        <type>B</type>
+        <material>C</material>
+        <price>10.0</price>
+        <releaseDate>18-11-2026</releaseDate>
+    </furnitureSet>
+</furniture>

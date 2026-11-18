@@ -1,0 +1,18 @@
+# Папки сборки Maven
+target/
+
+# Настройки IntelliJ IDEA
+.idea/
+*.iml
+
+# Скомпилированные файлы Java
+*.class
+
+# Логи и временные файлы
+errors.log
+
+# Файлы, которые генерирует программа (по желанию)
+furniture.xml
+furniture.json
+encrypted.txt
+furniture.zip
